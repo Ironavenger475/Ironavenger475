@@ -26,8 +26,6 @@ I'm Samraysh CSE IOT student at SRM University
 <img src="https://github.com/Ironavenger475/Ironavenger475/blob/main/html.png" alt="HTML" height="40" style="vertical-align:top; margin:4px">
 <img src="https://github.com/Ironavenger475/Ironavenger475/blob/main/css.png" alt="CSS" height="40" style="vertical-align:top; margin:4px">
 <img src="https://github.com/Ironavenger475/Ironavenger475/blob/main/Picture1.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src="https://github.com/Ironavenger475/Ironavenger475/blob/main/Picture3.png" alt="AWS" height="40" style="vertical-align:top; margin:4px">
-<img src="https://github.com/Ironavenger475/Ironavenger475/blob/main/Picture2.png" alt="GC" height="40" style="vertical-align:top; margin:4px">
 </p>
 
 <img align="center" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> <a href="https://twitter.com/IronAvenger475"> &nbsp;IronAvenger475</a> 
