@@ -10,7 +10,7 @@ I'm Samraysh CSE IOT student at SRM University
  - 💬 Ask me about Anything 
  - 😄 Pronouns: He/Him/It
  - 🎮 Gamer 
-
+ - 🐸 Love Wednesdays
 
 
 
