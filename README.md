@@ -1,11 +1,11 @@
-### Hi there 👋
+### Hi there 👋  
+I'm Samraysh CSE IOT student at SRM University
 
 <!--
-**Ironavenger475/Ironavenger475** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Ironavenger475/Ironavenger475** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--!>
 
-## Hi there 👋 I'm Samraysh CSE IOT student at SRM University
 
-<img align='right' src="https://github.com/Swetha126/Swetha126/blob/main/work.gif" width="300px">
+
  
  - 🔭 I’m currently working on Web Development 
  - 🌱 I’m currently learning IOT and Game Development 
