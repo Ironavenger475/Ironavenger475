@@ -6,12 +6,12 @@ I'm Samraysh CSE IOT student at SRM University
 
  - 🔭 I’m currently working on Web Development 
  - 🌱 I’m currently learning IOT and Game Development 
- - 👯 I’m looking to collaborate on interesting projects
+ - 👨‍👨‍👦‍👦 I’m looking to collaborate on interesting projects
  - 💬 Ask me about Anything 
  - 😄 Pronouns: He/Him/It
  - 🎮 Gamer 
  - 🐸 Love Wednesdays
-
+🧛🦹
 
 
 ## 🧰 Languages and Tools:
