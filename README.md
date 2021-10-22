@@ -1,12 +1,9 @@
 ### Hi there 👋  
 I'm Samraysh CSE IOT student at SRM University
 
-<!--
-**Ironavenger475/Ironavenger475** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--!>
 
 
 
- 
  - 🔭 I’m currently working on Web Development 
  - 🌱 I’m currently learning IOT and Game Development 
  - 👯 I’m looking to collaborate on interesting projects
