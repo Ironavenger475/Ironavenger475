@@ -8,7 +8,6 @@ I'm Samraysh CSE IOT student at SRM University
  - 🌱 I’m currently learning IOT and Game Development 
  - 👨‍👨‍👦‍👦 I’m looking to collaborate on interesting projects
  - 💬 Ask me about Anything 
- - 😄 Pronouns: He/Him/It
  - 🎮 Gamer 
  - 🐸 Love Wednesdays
 🧛🦹
