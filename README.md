@@ -1,5 +1,5 @@
 ### Hi there 👋  
-I'm Samraysh CSE IOT student at SRM University
+I'm Samraysh, A CSE IOT student at SRM University
 
 
 
