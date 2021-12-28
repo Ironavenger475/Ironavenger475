@@ -1,5 +1,5 @@
 ### Hi there 👋  
-I'm Samraysh, A CSE IOT student at SRM University
+I'm Samraysh, a CSE IOT student at SRM University
 
 
 
@@ -32,7 +32,7 @@ I'm Samraysh, A CSE IOT student at SRM University
 
 <table>
    <tr>
-    <td>You are visitor</td>
+    <td>You are visitor Number:</td>
     <td><img src="https://profile-counter.glitch.me/Ironavenger475/count.svg" alt="vistor count" height="50" /></td>
    </tr>
   </table>
