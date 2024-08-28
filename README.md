@@ -1,16 +1,15 @@
 ### Hi there 👋  
-I'm Samraysh, a CSE IOT student at SRM University
+I'm Samraysh, a MEng CS student at Univeristy of Cincinnati
+Alumni of SRM Institute of Science and Technology
 
 
 
-
- - 🔭 I’m currently working on Web Development 
- - 🌱 I’m currently learning IOT and Game Development 
+ - 🔭 I’m currently working on Web Development and Cloud 
+ - 🌱 I’m currently learning ML,Data Analysis and IOT 
  - 👨‍👨‍👦‍👦 I’m looking to collaborate on interesting projects
  - 💬 Ask me about Anything 
  - 🎮 Gamer 
  - 🐸 Love Wednesdays
-🧛🦹
 
 
 ## 🧰 Languages and Tools:
